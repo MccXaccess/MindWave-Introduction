@@ -1,2 +1,17 @@
 # MindWave-Introduction
 introduction to the project workflow
+
+# 4 SYMBOL REPO NAMING CONVENTION
+XX-XX
+LETTERLETTER-NUMBERNUMBER
+
+EXAMPLE: FS01 
+
+SV = SERVICE
+FS = FRONTEND STAFF
+FC = FRONTEND CLIENT
+BN = BACKEND
+
+MindWave-FS01
+MindWave-FC01
+MindWave-BN01
